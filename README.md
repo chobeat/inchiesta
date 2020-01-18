@@ -1,4 +1,6 @@
-# L'inchiesta sul lavoro informatico
+# Inchiesta sul lavoro informatico
+
+### Tabella dei contenuti
 - [Introduzione](#introduzione)
 
 - [Formato](#formato)
@@ -19,7 +21,7 @@ Lo scopo primario è quello di fornire un formato di base da adattare a situazio
 
 L'inchiesta non è:
 
-* un'inchiesta operaia come intesa da altri gruppi politici e sindacali
+* un'"inchiesta operaia" come intesa da altri gruppi politici e sindacali
 * uno strumento di ricerca per investigare la realtà del lavoro informatico
 
 
