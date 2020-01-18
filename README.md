@@ -1,5 +1,11 @@
 # L'inchiesta sul lavoro informatico
+- [Introduzione](#introduzione)
 
+- [Formato](#formato)
+
+- [Storia](#storia)
+
+## Introduzione
 L'inchiesta sul lavoro informatico è un questionario pensato e sviluppato per supportare lavoratori, organizzatori sindacali, ricercatori e attivisti nel loro lavoro di sensibilizzazione e mobilitazione dei lavoratori impiegati nel settore delle tecnologie digitali.
 
 Lo scopo primario è quello di fornire un formato di base da adattare a situazioni e realtà specifiche. I fini di questo questionario sono molteplici:
@@ -17,8 +23,7 @@ L'inchiesta non è:
 * uno strumento di ricerca per investigare la realtà del lavoro informatico
 
 
-## Consigli per l'utilizzo
-
+## Formato
 L'inchiesta è pensata per essere utilizzata in eventi di circa due ore strutturati attorno al seguente format:
 
 * Introduzione dell'organizzazione che ha organizzato l'inchiesta (es. Tech Worker Coalition)
