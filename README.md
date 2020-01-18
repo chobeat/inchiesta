@@ -30,3 +30,8 @@ L'inchiesta è pensata per essere utilizzata in eventi di circa due ore struttur
 
 Le domande e i temi caldi possono e devono essere adattate ai contesti specifici. Iterando su gruppi omogenei di lavoratori si potrà rifinire il set di domande in funzione della direzione verso cui si vuole portare la discussione.
 
+## Storia
+
+Questo documento è un fork riadattato al contesto italiano di una particolare istanza di Workers' Inquiry prodotto da Tech Worker Coalition USA. Questa organizzazione lo utilizza regolarmente nei propri eventi con modi e fini simili a quelli descritti in precedenza.
+
+Tradizionalmente il Workers' Inquiry è sempre stato qualcosa di diverso: sempre mutevole e in continua evoluzione a seconda dei gruppi che l'hanno utilizzato ma raramente ha preso la forma utilizzata qui. Per ripercorrere la storia di ciò che in italiano fu tradotto spesso come "Inchiesta Operaia" (la scelta di usare qui un termine diverso è deliberata), rimandiamo a questo saggio sul tema: [link](https://www.viewpointmag.com/2013/09/27/workers-inquiry-a-genealogy/).
