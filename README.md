@@ -4,7 +4,7 @@ L'inchiesta sul lavoro informatico è un questionario pensato e sviluppato per s
 
 Qui potrai trovare l'ultima versione disponibile dell'Inchiesta:
 
-## [PDF](https://gitprint.com/chobeat/inchiesta/blob/master/inchiesta.md) | [MarkDown](https://github.com/chobeat/inchiesta/blob/master/inchiesta.md)
+## [PDF](https://github.com/chobeat/inchiesta/releases/latest/download/inchiesta.pdf) | [MarkDown](https://github.com/chobeat/inchiesta/blob/master/inchiesta.md)
 
 ## Introduzione all'uso dell'Inchiesta sul lavoro informatico
 
