@@ -18,6 +18,6 @@ jobs:
           args: "--standalone --output=output/inchiesta.pdf README.md"
       - uses: actions/upload-artifact@master
         with:
-          name: test.pdf
-          path: test
+          name: inchiesta.pdf
+          path: .
       
