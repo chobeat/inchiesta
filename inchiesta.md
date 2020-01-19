@@ -1,4 +1,5 @@
-# Inchiesta sul lavoro informatico - uno strumento di scoperta, condivisione e connessione per lavoratori delle tecnologie digitali 
+# Inchiesta sul lavoro informatico 
+## Uno strumento di scoperta, condivisione e connessione per lavoratori delle tecnologie digitali 
 
 ## Presentazioni
 * Da quanto lavori nel settore informatico?
