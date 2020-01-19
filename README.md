@@ -14,6 +14,8 @@ Qui potrai trovare l'ultima versione disponibile dell'Inchiesta:
 
 - [Storia](#storia)
 
+- [Contribuzioni](#contribuzioni)
+
 ## Scopi
 
 Lo scopo primario è quello di fornire un formato di base da adattare a situazioni e realtà specifiche. I fini di questo questionario sono molteplici:
@@ -48,3 +50,8 @@ Le domande e i temi caldi possono e devono essere adattate ai contesti specifici
 Questo documento è un fork riadattato al contesto italiano di una particolare istanza di Workers' Inquiry prodotto da Tech Worker Coalition USA. Questa organizzazione lo utilizza regolarmente nei propri eventi con modi e fini simili a quelli descritti in precedenza.
 
 Tradizionalmente il Workers' Inquiry è sempre stato qualcosa di diverso: sempre mutevole e in continua evoluzione a seconda dei gruppi che l'hanno utilizzato ma raramente ha preso la forma utilizzata qui. Per ripercorrere la storia di ciò che in italiano fu tradotto spesso come "Inchiesta Operaia" (la scelta di usare qui un termine diverso è deliberata), rimandiamo a questo saggio sul tema: [link](https://www.viewpointmag.com/2013/09/27/workers-inquiry-a-genealogy/).
+
+
+## Contribuzioni
+
+Questo documento vuole fungere da base per adattamenti specifici. Siete quindi invitati a forkarlo per inserire contenuti legati alla vostra organizzazione. Se invece pensate vi siano modifiche al formato o al contenuto che possono essere incorporate nella versione corrente, sono apprezzate PR e issues.      
