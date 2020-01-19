@@ -1,16 +1,20 @@
 # Inchiesta sul lavoro informatico
 
+L'inchiesta sul lavoro informatico è un questionario pensato e sviluppato per supportare lavoratori, organizzatori sindacali, ricercatori e attivisti nel loro lavoro di sensibilizzazione e mobilitazione dei lavoratori impiegati nel settore delle tecnologie digitali.
+
+Qui potrai trovare l'ultima versione disponibile dell'Inchiesta:
+
 ## [PDF](https://gitprint.com/chobeat/inchiesta/blob/master/inchiesta.md) | [MarkDown](https://github.com/chobeat/inchiesta/blob/master/inchiesta.md)
 
-### Tabella dei contenuti
-- [Introduzione](#introduzione)
+## Introduzione all'uso dell'Inchiesta sul lavoro informatico
+
+- [Scopi](#scopi)
 
 - [Formato](#formato)
 
 - [Storia](#storia)
 
-## Introduzione
-L'inchiesta sul lavoro informatico è un questionario pensato e sviluppato per supportare lavoratori, organizzatori sindacali, ricercatori e attivisti nel loro lavoro di sensibilizzazione e mobilitazione dei lavoratori impiegati nel settore delle tecnologie digitali.
+## Scopi
 
 Lo scopo primario è quello di fornire un formato di base da adattare a situazioni e realtà specifiche. I fini di questo questionario sono molteplici:
 
