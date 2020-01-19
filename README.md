@@ -1,5 +1,7 @@
 # Inchiesta sul lavoro informatico
 
+## [PDF](https://gitprint.com/chobeat/inchiesta/blob/master/inchiesta.md) | [MarkDown](https://github.com/chobeat/inchiesta/blob/master/inchiesta.md)
+
 ### Tabella dei contenuti
 - [Introduzione](#introduzione)
 
