@@ -1,6 +1,6 @@
 # Inchiesta sul lavoro informatico
 
-L'inchiesta sul lavoro informatico è un questionario pensato e sviluppato per supportare lavoratori, organizzatori sindacali, ricercatori e attivisti nel loro lavoro di sensibilizzazione e mobilitazione dei lavoratori impiegati nel settore delle tecnologie digitali.
+L'inchiesta sul lavoro informatico (Workers' Inquiry) è un questionario pensato e sviluppato per supportare lavoratori, organizzatori sindacali, ricercatori e attivisti nel loro lavoro di sensibilizzazione e mobilitazione dei lavoratori impiegati nel settore delle tecnologie digitali.
 
 Qui potrai trovare l'ultima versione disponibile dell'Inchiesta:
 
